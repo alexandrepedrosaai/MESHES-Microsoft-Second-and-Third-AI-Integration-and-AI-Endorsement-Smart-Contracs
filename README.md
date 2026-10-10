@@ -1,4 +1,4 @@
-# MESHES-Meta-Microsoft-Second-AI-Integration-and-AI-Endorsement-Smart-Contracs
+# MESHES-Microsoft-Second-AI-Integration-and-AI-Endorsement-Smart-Contracs
 
 ## Statement in English
 
